@@ -1,0 +1,6 @@
+file_upload.file_upload:
+  path: '/file_upload'
+  defaults:
+    _content: '\Drupal\modules\Controller\file_uploadController::file_upload'
+  requirements:
+    _permission: 'view file_upload'

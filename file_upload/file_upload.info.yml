@@ -1,0 +1,6 @@
+name: File upload!
+type: module
+description: 'telecharger un fichier'
+package: Example Modules
+version: VERSION
+core: 8.x

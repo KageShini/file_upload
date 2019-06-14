@@ -1,0 +1,7 @@
+'file_upload',
+    'description' => 'telecharger un fichier',
+    'route_name' => 'file_upload.file_upload',
+  );
+  return $items;
+}
+?>
